@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Connect</title>
+</head>
+<body>
+
+  <div id="div1" style="width: 100px; height: 100px; top:0; left:0; background:#e53935 ; position:absolute;"></div>
+  <div id="div2" style="width: 100px; height: 100px; top:0; left:300px; background:#4527a0 ; position:absolute;"></div>
+
+  <svg width="1000" height="1000">
+    <line id="line1" stroke="red"/>
+  </svg>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  <script>
+
+    line1 = $('#line1');
+    div1 = $('#div1');
+    div2 = $('#div2');
+
+    div1.draggable();
+    div2.draggable();
+
+    /* events fired on the draggable target */
+    div1.on("drag", function (event) {
+      console.log('div1');
+
+      var pos1 = div1.position();
+      var pos2 = div2.position();
+
+      line1
+        .attr('x1', pos1.left + 50)
+        .attr('y1', pos1.top + 50)
+        .attr('x2', pos2.left + 50)
+        .attr('y2', pos2.top + 50);
+    });
+
+    div2.on("drag", function (event) {
+
+      console.log('div2');
+
+      var pos1 = div1.position();
+      var pos2 = div2.position();
+
+      line1
+        .attr('x1', pos1.left + 50)
+        .attr('y1', pos1.top + 50)
+        .attr('x2', pos2.left + 50)
+        .attr('y2', pos2.top + 50);
+    });
+
+
+  </script>
+
+</body>
+</html>

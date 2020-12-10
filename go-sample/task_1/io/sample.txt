@@ -1,0 +1,39 @@
+id: 0
+video_id: sVjEIyTOS04
+channel_title: 新R25ニュース
+title: 本田圭佑がプログラミング教室「テックキャンプ」で学んだ理由 sponsored by 株式会社div
+description: お金は無くなる 会社も潰れる でも能力は盗まれない」 本田圭佑がプログラミング教室「テックキャンプ」で学んだ理由 詳しくはこちら   https://tech-camp.in/expert #PR #マコ ...
+publish_at: 2020-04-16T03:21:53Z
+thumbnail_url: https://i.ytimg.com/vi/sVjEIyTOS04/default.jpg
+--------------
+id: 1
+video_id: NVXaCh7XPe8
+channel_title: Kan & Aki's CHANNELかんあきチャンネル
+title: ゲームの世界にすいこまれた！？プログラミングであきらをたすけよう！
+description: 毎日のゲームのやりすぎでゲームの世界にすいこまれてしまったあきら。困ったかんなは学校に行ってプログラミングに詳しいコンソ先生と一緒にあきらを助け出そうとします。
+publish_at: 2018-06-30T08:00:01Z
+thumbnail_url: https://i.ytimg.com/vi/NVXaCh7XPe8/default.jpg
+--------------
+id: 2
+video_id: g2AFcjHPO2A
+channel_title: マコなり社長
+title: 【堀江貴文×マコなり社長】プログラミングは超絶簡単
+description: 20代ビジネスパーソンのバイブル「新R25」にて、 ホリエモンこと、堀江貴文さんとプログラミング学習をテーマに対談しました！ プログラミングに興味がある人やエンジニアに ...
+publish_at: 2019-09-09T11:00:12Z
+thumbnail_url: https://i.ytimg.com/vi/g2AFcjHPO2A/default.jpg
+--------------
+id: 3
+video_id: nWP9T-2iEYY
+channel_title: 新R25ニュース
+title: 2ちゃんねる創設者ひろゆきがプログラミングを始めた理由とは？sponsored by 株式会社div
+description: 人間性とは別軸で評価されるのがコンピューターの仕事のいいところ」 2ちゃんねる創設者ひろゆきがプログラミングを始めた理由とは？ 続きはこちら   ...
+publish_at: 2020-06-15T11:21:49Z
+thumbnail_url: https://i.ytimg.com/vi/nWP9T-2iEYY/default.jpg
+--------------
+id: 4
+video_id: gExCWsP2GiU
+channel_title: Kan & Aki's CHANNELかんあきチャンネル
+title: ジュースを飲んだら不思議なことが！プログラミングでママをたすけよう！
+description: ある日きょうだい仲良くジュースを飲もうとしたら不思議なことが・・・！ジュースを飲んでママを迷路のゴールまで連れて行ってあげよう！途中パパがじゃまをするので油断 ...
+publish_at: 2018-08-24T08:00:02Z
+thumbnail_url: https://i.ytimg.com/vi/gExCWsP2GiU/default.jpg
